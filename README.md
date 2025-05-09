@@ -1,5 +1,5 @@
 
-#Combing Texxt-RS and BERT-Defense into a New Hybrid Adversarial Attack Defense System
+# Combing Texxt-RS and BERT-Defense into a New Hybrid Adversarial Attack Defense System
 
 This project implements and evaluates a **hybrid adversarial defense system**. It combines:
 
