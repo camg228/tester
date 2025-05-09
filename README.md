@@ -19,9 +19,12 @@ The system was tested on the **SST-2 sentiment classification task** and evaluat
 
 ## Defense Systems Compared
 
-**Vanilla BERT**            
+**Vanilla BERT**
+
 **BERT-Defense**
+
 **Text-RS**
+
 **Our Hybrid Model**
 
 
