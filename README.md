@@ -1,12 +1,12 @@
 
-# Combing Texxt-RS and BERT-Defense into a New Hybrid Adversarial Attack Defense System
+# Combining Texxt-RS and BERT-Defense into a New Hybrid Adversarial Attack Defense System
 
 This project implements and evaluates a **hybrid adversarial defense system**. It combines:
 
-- **Text-RS**: A decision-smoothing technique that uses ensemble voting across perturbed inputs.
+- **Text-RS**: A decision-smoothing technique that uses ensemble voting across altered prompts.
 - **BERT-Defense**: A semantic correction strategy that uses BERT’s masked language model (MLM) to recover corrupted words.
 
-The system was tested on the **SST-2 sentiment classification task** and evaluated under simple adversarial attacks.
+The system was tested on the SST-2 sentiment classification task** and evaluated under simple adversarial attacks.
 
 ## Contents
 
@@ -37,7 +37,7 @@ The system was tested on the **SST-2 sentiment classification task** and evaluat
 
 ## Setup
 
-Install the following dependencies if you haven’t already(its inlcuded in the first line so if you are running the program in a notebook then you don't have to do anything):
+Install the following dependencies if you haven’t already (it's included in the first line, so if you are running the program in a notebook,k then you don't have to do anything):
 
 ```bash
 pip install transformers datasets nltk
@@ -45,7 +45,7 @@ pip install transformers datasets nltk
 ```
 
 ## How to Run
-After installing the needed libraries, simply just run the program and it should work!
+After installing the needed libraries, simply run the program, and it should work!
 
 
 
